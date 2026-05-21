@@ -1,1 +1,3 @@
-# Task2_API_Integration
+# Task 2 - API Integration Project
+
+Weather API integration project.
